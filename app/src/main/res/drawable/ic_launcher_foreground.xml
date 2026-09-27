@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Jump arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B8925A"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M42,64 Q54,38 66,44" />
+    <!-- Player 2 circle token -->
+    <path
+        android:fillColor="#2B6F7E"
+        android:pathData="M54,54m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#123D47"
+        android:strokeWidth="1.6"
+        android:pathData="M54,54m-3.4,0a3.4,3.4 0,1 1,6.8 0a3.4,3.4 0,1 1,-6.8 0" />
+    <!-- Player 1 diamond token -->
+    <path
+        android:fillColor="#B4533C"
+        android:pathData="M40,56 L50,66 L40,76 L30,66 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#6E2A1E"
+        android:strokeWidth="1.6"
+        android:pathData="M40,62 L44,66 L40,70 L36,66 Z" />
+    <!-- Landing marker -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D9B98A"
+        android:strokeWidth="1.6"
+        android:pathData="M68,42m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+</vector>
